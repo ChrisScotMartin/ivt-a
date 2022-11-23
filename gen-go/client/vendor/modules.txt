@@ -1,4 +1,0 @@
-# github.com/ChrisScotMartin/ivt-a/models/v7 v7.11.1 => ../models
-## explicit
-github.com/ChrisScotMartin/ivt-a/models/v7
-# github.com/ChrisScotMartin/ivt-a/models/v7 => ../models
