@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ChrisScotMartin/ivt-a/client/v7"
+	"github.com/ChrisScotMartin/ivt-a/gen-go/client/v7"
 	"github.com/davecgh/go-spew/spew"
 )
 

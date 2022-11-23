@@ -1,7 +1,7 @@
 package client
 
 import (
-	"github.com/ChrisScotMartin/ivt-a/models/v7"
+	"github.com/ChrisScotMartin/ivt-a/gen-go/models/v7"
 )
 
 // ThingMaker makes things
