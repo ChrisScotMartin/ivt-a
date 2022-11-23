@@ -6,8 +6,5 @@ import (
 
 // ThingMaker makes things
 func ThingMaker() models.Thing {
-	return models.Thing{
-		name: "test thing"
-		count: 10
-	}
+	return models.Thing{Name: "test name", Count: 10}
 }
